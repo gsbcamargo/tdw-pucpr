@@ -1,5 +1,7 @@
 <div align="center">
-  ![PUCPR Logo](pucpr.jpg)
+  <a href="https://www.pucpr.br/">
+    <img alt="PUCPR" src="https://github.com/gsbcamargo/tdw-pucpr/blob/main/pucpr.jpg?raw=true">
+  </a>
 </div>
 
 # Tecnologias para Desenvolvimento WEB - PUCPR
