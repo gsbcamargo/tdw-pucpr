@@ -1,5 +1,5 @@
 <div align="center">
-  [![PUCPR Logo](https://github.com/gsbcamargo/tdw-pucpr/blob/main/pucpr.jpg?raw=true)](https://www.pucpr.br)
+  ![PUCPR Logo](https://github.com/gsbcamargo/tdw-pucpr/blob/main/pucpr.jpg?raw=true)
 </div>
 
 # Tecnologias para Desenvolvimento WEB - PUCPR
