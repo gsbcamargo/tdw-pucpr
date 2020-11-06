@@ -1,4 +1,6 @@
-![PUCPR Logo](https://github.com/gsbcamargo/tdw-pucpr/blob/main/pucpr.jpg?raw=true)
+<div align="center">
+  <a href="https://www.pucpr.br/">![PUCPR Logo](pucpr.jpg)</a>
+</div>
 
 # Tecnologias para Desenvolvimento WEB - PUCPR
 Repositório para fixar conceitos da matéria de Tecnologias para Desenvolvimento WEB.
